@@ -60,9 +60,9 @@
 <li><b>ClaimSize</b></li>
 </div>
 <div id="conclusion" class="section level3">
-<h2>In the comparison of the five models based on the given AUC and accuracy scores, we can conclude that the Random Forest (RF) model has the highest prediction performance with an AUC score of 0.79, while KNN, RF, and SVM have the same accuracy score of 0.94, which is the highest among all models. Therefore, choosing the best model depends on the specific requirements of the task at hand, and both AUC and accuracy should be considered together while selecting a model.
-Based solely on the AUC scores, the Random Forest (RF) model has the highest prediction performance among the models you listed with an AUC score of 0.79</h2>
-<p></p>
+<h2>Conclusion</h2>
+<p>In the comparison of the five models based on the given AUC and accuracy scores, we can conclude that the Random Forest (RF) model has the highest prediction performance with an AUC score of 0.79, while KNN, RF, and SVM have the same accuracy score of 0.94, which is the highest among all models. Therefore, choosing the best model depends on the specific requirements of the task at hand, and both AUC and accuracy should be considered together while selecting a model.
+Based solely on the AUC scores, the Random Forest (RF) model has the highest prediction performance among the models you listed with an AUC score of 0.79</p>
 </div>
 </body>
 </html>
